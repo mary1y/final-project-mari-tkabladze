@@ -1,0 +1,6 @@
+$mainfont: 'Noto Sans KR', sans-serif;
+$secondaryfont: 'Montserrat', sans-serif;
+$playfair: 'Playfair Display', serif;
+$maincolor: #2289ff;
+$secondarycolor: #186aa5;
+$color3: #14395b;
